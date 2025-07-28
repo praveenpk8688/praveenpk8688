@@ -89,8 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/praveenpk8688/praveenpk8688/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
@@ -98,15 +96,10 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/praveenpk8688/praveenpk8688/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/praveenpk8688/praveenpk8688/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praveenpk8688/praveenpk8688/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praveenpk8688/praveenpk8688/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/praveenpk8688/praveenpk8688/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
